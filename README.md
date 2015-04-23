@@ -1,0 +1,1 @@
+Este programa genera un numero aleatorio entre 0 y 1 indicándonos si este es mayor o menor que 0,5.
